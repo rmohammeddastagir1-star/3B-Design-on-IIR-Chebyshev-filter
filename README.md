@@ -74,12 +74,10 @@ title(' Frequency Response of Chebyshev IIR LPF');
 
 ```
 # OUTPUT: 
-<img width="756" height="680" alt="image" src="https://github.com/user-attachments/assets/cb6481ff-330f-4740-bf76-a37738089f60" />
-<img width="879" height="920" alt="image" src="https://github.com/user-attachments/assets/fbf742f3-90be-457a-918d-65057a13387b" />
-<img width="944" height="1493" alt="image" src="https://github.com/user-attachments/assets/fd452b02-710f-4bbe-bdc7-90366ec935a1" />
-<img width="892" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d47dd9c-4bd9-43f7-9046-671350882b4b" />
-<img width="892" height="1600" alt="image" src="https://github.com/user-attachments/assets/ff39d8fd-b05e-4520-9bf0-7cf8bd64e7af" />
-<img width="960" height="1552" alt="image" src="https://github.com/user-attachments/assets/a741b2c8-3c10-4346-b015-5698ef1b2216" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/01599920-3eeb-4b82-be38-2ea4cc7370c2" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/542f6532-ec22-4d22-974e-3e2f8d00ce2e" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e8221be0-99fb-43ee-b479-1a39579a6eda" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/4ec42e09-ad57-4edb-b631-c03ccbeba1be" />
 
 
 
